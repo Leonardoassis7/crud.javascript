@@ -1,0 +1,1 @@
+Este projeto JavaScript demonstra como implementar um sistema CRUD básico utilizando o localStorage do navegador como banco de dados. O objetivo é permitir ao usuário criar, ler, editar e excluir registros
